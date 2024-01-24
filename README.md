@@ -17,6 +17,9 @@ The Artirexa glTF to glb Converter is a straightforward yet robust tool for conv
 2. The conversion process will initiate automatically.
 3. The resulting glb file will be downloaded automatically.
 
+## Converter Website
+Visit the [Converter Website](https://ishankachanuka.github.io/Convert-glTF-to-glb/) for a seamless experience.
+
 ## Screenshots
 ![Project Image](assets/Screenshot.png)
 
